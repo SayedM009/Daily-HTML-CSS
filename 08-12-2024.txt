@@ -1,0 +1,4 @@
+- HTML Validator : a tool to check your HTML Code.
+- DiffChecker : a tool to check the differences between 2 codes.
+- Box-model : contains margin, border, padding, width, height
+- inline-block : will give the element the ability to have it's own margin, padding, height and width without occupie the whole space.
